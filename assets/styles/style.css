@@ -8,7 +8,21 @@
 
     }
 
-    .fashiion__female {
+    .fashion__female {
         padding: 10px;
 
+    }
+
+    .fashion__female-p {
+        padding: 10px;
+        font-family: 'Times New Roman', serif;
+        color: rgb(59, 8, 94);
+        margin: auto;
+        width: 70%;
+        line-height: 20px;
+    }
+
+    .fashion__female-h{
+        padding: 10px;
+        
     }
